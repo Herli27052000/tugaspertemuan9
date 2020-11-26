@@ -39,7 +39,7 @@ print ("mengabungkan list A dan B : " ,dataa + datab)
 print("══════════════════════════════════════")
 ```
 ## Hasil Output 
-![gambar output](isi%20foto/hasil%20latihan4.png)
+![gambar output](isi%20foto/hasil%20hasillatihan4.png)
 
 ## TugasPraktikum 4
 ![gambar output](isi%20foto/soalpraktikum4.png)
